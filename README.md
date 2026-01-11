@@ -21,7 +21,6 @@ The goal of this project is to demonstrate systems thinking, data modeling, and 
 ## How to Run
 
 ### REPL
-```bash
 python launch.py
 Web App
 bash
@@ -29,8 +28,8 @@ Copy code
 python web/app.py
 Then visit:
 
-arduino
-Copy code
+
+
 http://localhost:5000
 Limitations
 In-memory only (no persistence)
