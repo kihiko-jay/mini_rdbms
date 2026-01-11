@@ -24,7 +24,8 @@ The goal of this project is to demonstrate systems thinking, data modeling, and 
 python launch.py
 Web App
 bash
-Copy code
+
+
 python web/app.py
 Then visit:
 
