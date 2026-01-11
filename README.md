@@ -14,7 +14,7 @@ A minimal in-memory relational database management system built in Python as par
 ---
 
 ## Why This Project
-The goal of this project is to demonstrate systems thinking, data modeling, and clear trade-off awareness under time constraints — not to build a production-ready database.
+The goal of this project is to demonstrate systems thinking, data modeling, and clear trade-off awareness -not to build a production-ready database.
 
 ---
 
@@ -44,4 +44,4 @@ Architectural decisions, trade-offs, and limitations are documented in DESIGN.md
 
 Use of AI Tools
 AI tools (ChatGPT, DeepSeek, and GitHub Copilot) were used for guidance, design discussion, and code review.
-All design decisions and final implementation were done and fully understood by the me.
+All design decisions and final implementation were done and fully understood by  the author(James Kihiko).
